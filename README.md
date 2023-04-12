@@ -3,15 +3,12 @@
 I'm Dan, a senior web developer from Australia. :australia:
 
 * 🧑‍💻 &nbsp; I've been employed at an agency for the last ~14.5 years, and have more than ~18 years of experience
-* 🛠 &nbsp; I build and contribute to websites and systems for small-to-medium clients
 * 👾 &nbsp; I'm interested in game technology, and have contributed to a game which is available on Steam
-* 💻 &nbsp; I'm currently building a website to share tips, cheats, and deeper articles related to Laravel and PHP - coming soon!
 * 🔊 &nbsp; I produce audio and music - I made the music for [Hexiled](https://hexiledgame.com/), and also created notification and trill sounds for [Streaks](https://streaksapp.com/), an award winning iOS app
 
-### Goals for 2022
+### Goals for 2023
 
 * 🎡 &nbsp; Submit value-add PR/s for Laravel
-* 🎢 &nbsp; Finalise and release my approach for building reusable and distributable themes for Laravel projects
 
 ### Topics
 
