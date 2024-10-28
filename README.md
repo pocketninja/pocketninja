@@ -6,10 +6,6 @@ I'm Dan, a senior web developer from Australia. :australia:
 * 👾 &nbsp; I'm interested in game technology, and have contributed to a game which is available on Steam
 * 🔊 &nbsp; I produce audio and music - I made the music for [Hexiled](https://hexiledgame.com/), and also created notification and trill sounds for [Streaks](https://streaksapp.com/), an award winning iOS app
 
-### Goals for 2023
-
-* 🎡 &nbsp; Submit value-add PR/s for Laravel
-
 ### Topics
 
 * <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="width: 1em;"> &nbsp; Laravel
