@@ -22,3 +22,8 @@ I'm Dan, a senior web developer from Australia. :australia:
 * 🔗 &nbsp; [https://danherbert.io](https://danherbert.io)
 * 🐦 &nbsp; [@danherbert_io](https://twitter.com/danherbert_io)
 * 🦋 &nbsp; [@danherbert.bsky.social](https://bsky.app/profile/danherbert.bsky.social)
+
+##### Projects/other
+
+* 🔗 &nbsp; [Hemobi](https://hemobi.io) - embed contextual documentation into your web app/site
+* 🔗 &nbsp; [Lounge Room Run Club](https://loungeroomrunclub.com/)
